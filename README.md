@@ -1,6 +1,6 @@
 # orientacao_objeto_alura
 -  Projeto desenvolvido no curso da Alura sobre orientação a objeto.
--  Este código possui exemplos de metodos especiais, construtores, de instancia e de classe, utilizando de conceitos como importação de clases e propriedades de objetos.
+-  Este código possui exemplos de metodos especiais, metodos construtores, metodos de instancia, metodos de classe, utilizando de conceitos como importação de clases e propriedades de objetos.
 
 Autor:
 
